@@ -1,0 +1,25 @@
+# Task 1 – Web Application Security Testing  
+## Process Followed
+
+### 1. Setup Environment
+- Installed Docker on my system
+- Pulled the OWASP Juice Shop Docker image
+- Ran Juice Shop in a containerized environment
+
+### 2. Vulnerability Scanning
+- Used OWASP ZAP to perform automated scans
+- Analyzed the scan results for security loopholes
+
+### 3. Key Learnings
+- Learned about common web application vulnerabilities (OWASP Top 10)
+- Understood how attackers exploit weaknesses
+- Practiced mitigation strategies for identified vulnerabilities
+
+### 4. Screenshots
+- Docker setup: `Screenshots/docker_setup.png`
+- ZAP scan results: `Screenshots/zap_scan_results.png`
+- Juice Shop interface: `Screenshots/juice_shop.png`
+
+---
+
+This file summarizes the **step-by-step process I followed** to complete Task 1.
